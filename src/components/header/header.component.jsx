@@ -18,7 +18,7 @@ const Header = ({currentUser, hidden}) => (
     <Link className='logo-container' to='/'>
       <Logo className='logo'/>
     </Link>
-    <div className='main-title'>OYASHI WEARS</div>
+    <div className='main-title'>Welcome to Crown Clothing Store</div>
     <div className='options'>
       <Link className='option' to='/shop'>
         SHOP
